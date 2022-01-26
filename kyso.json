@@ -4,5 +4,5 @@
     "organization": "lightside",
     "team": "protected-team",
     "description": "Energies of an electron in a one-dimensional periodic potential.",
-    "importPath: "./"
+    "importPath": "./"
 }
