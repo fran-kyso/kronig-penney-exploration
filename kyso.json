@@ -1,8 +1,8 @@
 {
     "main": "Kronig-Penney.ipynb",
     "title": "Kronig Penney simulation",
-    "organization": "lightside",
-    "team": "protected-team",
+    "organization": "francisco-javier-barrenas-workspace",
+    "team": "general",
     "description": "Energies of an electron in a one-dimensional periodic potential.",
     "importPath": "./",
     "type": "jupyter"
